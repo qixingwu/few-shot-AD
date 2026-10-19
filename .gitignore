@@ -171,3 +171,12 @@ cython_debug/
 .pypirc
 
 *.pth
+cache
+data
+/pretrained_ckpts/*
+!/pretrained_ckpts/empty.txt
+/masks/
+/reproduction/logs/
+/heat_masks/
+/results/
+/reproduction/run.lock
